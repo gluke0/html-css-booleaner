@@ -11,3 +11,34 @@ li {
 table{
     border-spacing: 0;
 }
+
+#banner{
+    background-image: url(../assets/img/pattern.png);
+    background-size: 500px;
+    background-color: cornflowerblue;
+    height: 120px;
+    padding: 0px;
+}
+
+#logo{
+    width: 150px;
+    margin-top: 75px;
+    margin-left: 10px;
+}
+
+h1{
+    margin-top: 15px;
+}
+
+#booleaner{
+    color: deepskyblue;
+}
+
+.data{
+    color: gray;
+    margin-bottom: 15px;
+}
+
+.description{
+    font-size: 10px;
+}
