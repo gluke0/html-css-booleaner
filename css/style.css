@@ -66,3 +66,26 @@ thead{
 .color{
     background-color: lightblue;
 }
+
+h4{
+    color: gray;
+}
+
+.top{
+    background-image: url(../assets/img/monitor.jpg);
+}
+
+.bottom{
+    background-image: url(../assets/img/graph.jpg);
+}
+
+.pic{
+    width: 180px;
+    height: 120px;
+    color: white;
+    font-size: 16px;
+    margin-top: 10px;
+    padding-left: 6px;
+    padding-top: 5px;
+    background-size: cover;
+}
