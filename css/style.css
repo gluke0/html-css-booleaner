@@ -14,19 +14,18 @@ table{
     border-spacing: 0;
 }
 
-body{
-    font-family: 'Oswald', sans-serif;
-    padding-left: 5px;
-    padding-right: 5px
-}
-
 #banner{;
     background-image: url(../assets/img/pattern.png);
     background-size: 500px;
     background-color: cornflowerblue;
     height: 120px;
-    
 }
+
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+
 
 .border{
     margin: 4px;
